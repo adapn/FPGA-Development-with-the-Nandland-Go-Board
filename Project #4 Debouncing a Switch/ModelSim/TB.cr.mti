@@ -1,0 +1,22 @@
+{C:/Users/AdamA/Desktop/Future Goals/NandLand Projects/Project #4 Debouncing a Switch/Debounce_Filter.vhdl} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/AdamA/Desktop/Future Goals/NandLand Projects/Project #4 Debouncing a Switch/Debounce_Filter.vhdl}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Debounce_Filter
+-- Compiling architecture RTL of Debounce_Filter
+
+} {} {}} {C:/Users/AdamA/Desktop/Future Goals/NandLand Projects/Project #4 Debouncing a Switch/Debounce_Filter_TB.vhdl} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/AdamA/Desktop/Future Goals/NandLand Projects/Project #4 Debouncing a Switch/Debounce_Filter_TB.vhdl}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package ENV
+** Warning: C:/Users/AdamA/Desktop/Future Goals/NandLand Projects/Project #4 Debouncing a Switch/Debounce_Filter_TB.vhdl(3): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+-- Compiling entity Debounce_Filter_TB
+-- Compiling architecture test of Debounce_Filter_TB
+-- Loading package NUMERIC_STD
+-- Loading entity Debounce_Filter
+
+} {} {}}
